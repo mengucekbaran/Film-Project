@@ -1,2 +1,2 @@
 # Film-Project
-HTML ve JS kullanarak çalışma amacıyla yaptığım küçük bir film projesi
+HTML5 ve JS kullanarak çalışma amacıyla yaptığım küçük bir film projesi.Bu projenin amacı film listesi oluşturmak. Kullanıcı yapılacak film adı,yönetmen ismi ve afiş linki girer ve bu sayfanın altında Filmler tablosu olarak gözükmektedir. Filmlerden herhangi birini silme ya da isterse tüm filmleri silme işlemini yapabilir. Eklediği filmler Local Storage'a eklenir ve sayfa yenilendiğinde filmler yok olmaz.
